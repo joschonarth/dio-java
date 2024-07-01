@@ -1,18 +1,23 @@
-## Getting Started
+# 1 / 5 - Registro de Transações Bancárias
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
+Você está desenvolvendo um programa simples em Java para manter um registro de transações bancárias. Cada transação é armazenada em uma lista.
 
-## Folder Structure
+## Entrada
+* O programa solicitará ao usuário que informe o saldo inicial da conta.
+* Em seguida, o programa solicitará a quantidade total de transações que o cliente deseja realizar.
+    
+    **Entrada de Transações:**
+* Para cada transação, o programa solicitará ao usuário:
+    * O tipo de transação: Digite 'D' para depósito ou 'S' para saque.
+    * O valor da transação.
 
-The workspace contains two folders by default, where:
+## Saída
+* Utilizando listas (`ArrayList` ou `LinkedList`), o programa armazenará cada transação, que incluirá um tipo (Depósito ou Saque) e um valor.
+* Ao final das transações, o programa exibirá o saldo final da conta e a lista de transações.
+ 
+## Exemplos
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+| Entrada | Saída |
+| ------- | ----- |
