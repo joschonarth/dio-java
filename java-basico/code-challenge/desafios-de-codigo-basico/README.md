@@ -1,18 +1,21 @@
-## Getting Started
+# DIO | Desenvolvimento Java com IA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🧮 Explorando Desafios de Códigos Básicos em Java
 
-## Folder Structure
+Repositório para armazenar os Desafios de Códigos Básicos em Java do Bootcamp Desenvolvimento Java com IA da [Digital Innovation One](https://www.dio.me/).
 
-The workspace contains two folders by default, where:
+## 📄 Documentação
+- [Documentação JAVA](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 💻 Desafios
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+| Desafios | Repositórios |
+| ------- | ----------- |
+| Desafio 1 | [Operações Bancárias Simples com Switch](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/operacoes-bancarias-simples) |
+| Desafio 2 | [Verificação de Número de Conta Bancária](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/verificacao-numero-conta) |
+| Desafio 3 | [Verificador de Idade para Conta Bancária](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/verificador-idade-conta) |
+| Desafio 4 | [Verificação de Cheque Especial](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/verificacao-cheque-especial) |
+| Desafio 5 | [Controle de Saques](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/controle-simples-saque) |
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 🔍 Referências
+- [Digital Innovation One](https://www.dio.me/).
