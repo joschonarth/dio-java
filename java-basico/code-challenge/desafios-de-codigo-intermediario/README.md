@@ -1,18 +1,22 @@
-## Getting Started
+# DIO | Desenvolvimento Java com IA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🧮 Dominando Desafios de Códigos Intermediários em Java
 
-## Folder Structure
+Repositório para armazenar os Desafios de Códigos Intermediários em Java do Bootcamp Desenvolvimento Java com IA da [Digital Innovation One](https://www.dio.me/).
 
-The workspace contains two folders by default, where:
+## 📄 Documentação
+- [Documentação JAVA](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 💻 Desafios
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+| Desafios | Repositórios |
+| ------- | ----------- |
+| Desafio 1 | [Registro de Transações Bancárias](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-intermediario/registro-trasacoes-bancarias) |
+| Desafio 2 | [Registro de Transações Bancárias com Stream API](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-intermediario/registro-transacoes-bancarias-stream) |
+| Desafio 3 | [Conta Bancária com Construtor em POO](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-intermediario/conta-bancaria-construtor-poo) |
+| Desafio 4 | [Herança Bancária: Entendendo a Herança e Polimorfismo](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-intermediario/heranca-bancaria) |
+| Desafio 5 | [Cofres Seguros: Dominando o Encapsulamento e Abstração](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-intermediario/cofres-seguros) |
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 🔍 Referências
+- [Digital Innovation One](https://www.dio.me/).
