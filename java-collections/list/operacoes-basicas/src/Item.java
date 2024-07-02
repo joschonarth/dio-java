@@ -2,12 +2,12 @@ public class Item {
  
 	private String nome;
 	private double preco;
-	private int quant;
+	private int quantidade;
 
-	public Item(String nome, double preco, int quant) {
+	public Item(String nome, double preco, int quantidade) {
 		this.nome = nome;
 		this.preco = preco;
-		this.quant = quant;
+		this.quantidade = quantidade;
 	}
 
 	public String getNome() {
@@ -19,7 +19,7 @@ public class Item {
 	}
 
 	public int getQuant() {
-		return quant;
+		return quantidade;
 	}
 
 	@Override
@@ -27,7 +27,7 @@ public class Item {
 		return "Item{" +
 				"nome='" + nome + '\'' +
 				", preco=" + preco +
-				", quant=" + quant +
+				", quantidade=" + quantidade +
 				'}';
 	}
 }
