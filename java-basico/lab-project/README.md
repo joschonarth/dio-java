@@ -1,51 +1,18 @@
-# [DIO](www.dio.me) - Desenvolvimento Java com IA
+## Getting Started
 
-## Autores
-- [João Otávio Schonarth](https://github.com/joschonarth)
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## POO - Desafio
+## Folder Structure
 
-### Modelagem e Diagramação de um Componente iPhone
+The workspace contains two folders by default, where:
 
-Neste desafio, você será responsável por modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-#### Contexto
-Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve elaborar a diagramação das classes e interfaces utilizando uma ferramenta UML de sua preferência. Em seguida, implemente as classes e interfaces no formato de arquivos `.java`.
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-#### Funcionalidades a Modelar
-1. **Reprodutor Musical**
-   - Métodos: `tocar()`, `pausar()`, `selecionarMusica(String musica)`
-2. **Aparelho Telefônico**
-   - Métodos: `ligar(String numero)`, `atender()`, `iniciarCorreioVoz()`
-3. **Navegador na Internet**
-   - Métodos: `exibirPagina(String url)`, `adicionarNovaAba()`, `atualizarPagina()`
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-### Objetivo
-1. Criar um diagrama UML que represente as funcionalidades descritas acima.
-2. Implementar as classes e interfaces correspondentes em Java (Opcional).
+## Dependency Management
 
-### Exemplo de Diagrama UML (Mermaid)
-```mermaid
-classDiagram
-    class ReprodutorMusical {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class AparelhoTelefonico {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class NavegadorInternet {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
-    }
-
-    class iPhone {
-    }
-
-    iPhone --> ReprodutorMusical
-    iPhone --> AparelhoTelefonico
-    iPhone --> NavegadorInternet
-```
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
