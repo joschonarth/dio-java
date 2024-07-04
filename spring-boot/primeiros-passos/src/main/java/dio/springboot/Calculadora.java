@@ -1,3 +1,4 @@
+/*
 package dio.springboot;
 
 import org.springframework.stereotype.Component;
@@ -8,3 +9,4 @@ public class Calculadora {
         return numero1 + numero2;
     }
 }
+*/
