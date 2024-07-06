@@ -5,7 +5,6 @@ import java.util.List;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import spring_web_rest_api.handler.BusinessException;
 import spring_web_rest_api.handler.CampoObrigatorioException;
 import spring_web_rest_api.model.Usuario;
 
