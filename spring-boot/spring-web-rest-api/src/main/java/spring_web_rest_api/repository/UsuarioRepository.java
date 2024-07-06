@@ -5,15 +5,21 @@ import java.util.List;
 
 import org.springframework.web.bind.annotation.RestController;
 
+import spring_web_rest_api.handler.BusinessException;
+import spring_web_rest_api.handler.CampoObrigatorioException;
 import spring_web_rest_api.model.Usuario;
 
 @RestController
-public class UsuarioRepository  {
+public class UsuarioRepository {
     public void save(Usuario usuario){
+        if(usuario.getLogin()==null)
+            throw new CampoObrigatorioException("login");
+        if(usuario.getPassword()==null)
+            throw new CampoObrigatorioException("password");
         if(usuario.getId()==null)
-          System.out.println("SAVE - Recebendo o usuário na camada de repositório");
+            System.out.println("SAVE - Recebendo o usuário na camada de repositório");
         else
-         System.out.println("UPDATE - Recebendo o usuário na camada de repositório");
+            System.out.println("UPDATE - Recebendo o usuário na camada de repositório");
         
         System.out.println(usuario);
     }
