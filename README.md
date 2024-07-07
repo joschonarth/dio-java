@@ -11,10 +11,11 @@ Repositório para armazenar conteúdos sobre JAVA do Bootcamp Desenvolvimento Ja
 | ----- | ------- |
 | Java Básico | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-basico) |
 | Programação Orientada a Objetos | [Repositório](https://github.com/joschonarth/dio-java/tree/main/banco-digital-poo) |
-| Java Collections | [Repositório]() |
-| Design Patterns  | [Repositório]() |
-| Spring Boot | [Repositório]() |
+| Java Collections | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-collections) |
+| Design Patterns  | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns) |
+| STREAM API  | [Repositório](https://github.com/joschonarth/dio-java/tree/main/stream-api) |
+| Spring Boot | [Repositório](https://github.com/joschonarth/dio-java/tree/main/spring-boot) |
 
 
 ### 🔍 Referências
-- [Digital Innovation One](https://felipe-silva-aguiar.gitbook.io/dio-java/gitbook/summary).
+- [Digital Innovation One](https://web.dio.me/).
