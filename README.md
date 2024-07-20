@@ -5,7 +5,7 @@ Repositório para armazenar conteúdos sobre JAVA do Bootcamp Desenvolvimento Ja
 ## 📄 Documentação
 - [Documentação JAVA](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
 
-## 💻 Resumos das Aulas
+## 💻 Conteúdos das Aulas
 
 | Conteúdos | Repositórios |
 | ----- | ------- |
