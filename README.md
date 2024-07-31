@@ -1,6 +1,6 @@
 # DIO | JAVA
 
-Repositório para armazenar conteúdos sobre JAVA do Bootcamp Desenvolvimento Java com IA da [Digital Innovation One](https://www.dio.me/).
+Repositório para armazenar conteúdos sobre JAVA de cursos de Bootcamps da [Digital Innovation One](https://www.dio.me/).
 
 ## 📄 Documentação
 - [Documentação JAVA](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
