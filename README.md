@@ -1,4 +1,4 @@
-# DIO | JAVA
+# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> DIO | JAVA
 
 Repositório para armazenar conteúdos sobre JAVA de cursos de Bootcamps da [Digital Innovation One](https://www.dio.me/).
 
