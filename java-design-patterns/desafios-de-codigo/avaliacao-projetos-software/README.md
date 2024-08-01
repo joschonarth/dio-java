@@ -1,4 +1,6 @@
-# Descrição
+# 1 / 3 - Avaliação de Projetos de Software
+
+## Descrição
 
 Você está desenvolvendo um programa para avaliar projetos de software empresariais. O objetivo é permitir registrar avaliações de projetos, calcular a média das avaliações e determinar o status do projeto com base na média. E para resolver este desafio, utilizaremos o conceito de **Design Patterns**, especificamente o padrão **Strategy**. Este padrão é utilizado para definir uma família de algoritmos, encapsular cada um deles e torná-los intercambiáveis. O padrão Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam.
 
@@ -15,13 +17,13 @@ Crie uma interface chamada `EvaluationStrategy` e implemente as classes concreta
 
 **Saiba mais sobre:** [Strategy](https://refactoring.guru/pt-br/design-patterns/strategy).
 
-# Entrada
+## Entrada
 
 O programa deve receber as seguintes entradas:
 
 1. **Registrar Avaliação:** Recebe duas avaliações (notas entre 0 e 10) e adiciona à lista de avaliações.
 
-# Saída
+## Saída
 
 O calculo da média das avaliações registradas e o status do projeto com base na média.O programa exibirá uma das seguintes mensagens:
 
@@ -30,7 +32,22 @@ O calculo da média das avaliações registradas e o status do projeto com base 
 * "Media: X. Status: Regular."
 * "Media: X. Status: Insatisfatorio."
 
-# Exemplos
+## Exemplos
 
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada | Saída |
+| ------- | ----- |
+| 10.0 | Media: 8.5. Status: Bom. |
+| 7.0 | |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 10.0 | Media: 9.5. Status: Excelente. |
+| 9.0 | |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 5.0 | Media: 5.5. Status: Regular. |
+| 6.0 | |
 
