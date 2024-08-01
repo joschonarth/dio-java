@@ -1,18 +1,46 @@
-## Getting Started
+# 3 / 3 - Calculadora de Salários
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Você está desenvolvendo um programa para calcular os salários de funcionários em uma empresa. Neste desafio, você implementará uma solução que permite ao usuário inserir o número de horas trabalhadas e a taxa de pagamento por hora de diferentes funcionários e calcular o salário total com base nas horas trabalhadas e na taxa de pagamento. O cálculo deve ser feito diretamente, multiplicando as horas trabalhadas pela taxa por hora. Para esta solução, aplicaremos o padrão de design **Factory Method**. Este padrão ajuda a promover flexibilidade e desacoplamento, facilitando a expansão e manutenção do código.
 
-The workspace contains two folders by default, where:
+**Padrão de Design - Factory Method**
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* **Objetivo**: Criar objetos de forma flexível e desacoplada, permitindo que a criação dos objetos seja delegada a uma fábrica.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* **Como Aplicar**: Em vez de criar diretamente um objeto da classe `Employee`, você usará uma classe fábrica `EmployeeFactory` para criar instâncias de `Employee`. A classe fábrica oferece um método estático para criar o objeto, seguindo o padrão Factory Method.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Saiba mais sobre o:** [Factory Method](https://refactoring.guru/pt-br/design-patterns/factory-method)
 
-## Dependency Management
+## Entrada
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O programa deve receber as seguintes entradas:
+
+1. **Número de horas trabalhadas**: Um inteiro representando o total de horas trabalhadas por um funcionário.
+
+2. **Taxa de pagamento por hora**: Um valor decimal representando a taxa de pagamento por hora do funcionário.
+
+## Saída
+
+O programa exibirá a seguinte mensagem:
+
+* `Salario total: X`, onde `X` é o salário total calculado para o funcionário.
+
+## Exemplos
+
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada | Saída |
+| ------- | ----- |
+| 22 | Salario total: 264.0 |
+| 12 | |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 40 | Salario total: 600.0 |
+| 15 | |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 10 | Salario total: 100.0 |
+| 10 | |
