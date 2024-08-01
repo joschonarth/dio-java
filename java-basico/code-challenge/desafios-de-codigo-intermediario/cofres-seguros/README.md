@@ -1,18 +1,34 @@
-## Getting Started
+# 5 / 5 - Cofres Seguros: Dominando o Encapsulamento e Abstração
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Você foi contratado para desenvolver um sistema de cofres seguros. O objetivo é criar dois tipos de cofres: um Cofre Digital, que é aberto por senha, e um Cofre Físico, que é aberto por chave.
 
-The workspace contains two folders by default, where:
+## Entrada
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O programa irá solicitar ao usuário que digite o tipo de cofre a ser criado: "digital" ou "físico". Se for escolhido o tipo "digital", o programa irá solicitar a senha e a confirmação de senha do cofre digital (ambas com apenas números). Caso seja escolhido o tipo "físico", não é necessário nenhuma outra entrada.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Saída
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+O programa irá exibir as informações do cofre criado. Para o Cofre Digital, será exibido o tipo e o método de abertura (senha). Para o Cofre Físico, será exibido apenas o tipo e o método de abertura (chave).
 
-## Dependency Management
+## Exemplos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada | Saída |
+| ------- | ----- |
+| digital | Tipo: Cofre Digital |
+| 12345 | Metodo de abertura: Senha |
+| 1234 | Senha incorreta! |
+
+| Entrada | Saída |
+| ------- | ----- |
+| fisico | Tipo: Cofre Fisico |
+| | Metodo de abertura: Chave |
+
+| Entrada | Saída |
+| ------- | ----- |
+| digital | Tipo: Cofre Digital |
+| 2525 | Metodo de abertura: Senha |
+| 2525 | Cofre aberto! |

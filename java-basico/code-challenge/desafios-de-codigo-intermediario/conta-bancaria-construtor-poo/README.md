@@ -1,18 +1,35 @@
-## Getting Started
+# 3 / 5 - Conta Bancária com Construtor em POO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Você está desenvolvendo um programa simples em Java para representar uma conta bancária. Utilizando programação orientada a objetos (POO), você criará uma classe `ContaBancaria` com um construtor que permitirá a inicialização da conta com um saldo inicial.
 
-The workspace contains two folders by default, where:
+## Entrada
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* O programa solicitará ao usuário que informe o saldo inicial da conta.
+* Em seguida, o programa solicitará ao usuário que realize transações de depósito e saque.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Saída
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* A classe `ContaBancaria` conterá métodos para realizar depósitos e saques, atualizando o saldo da conta.
+* O saldo atual será exibido após cada transação.
+* Se o valor do saque for maior que o saldo disponível na conta, imprima uma mensagem informando: **Saldo insuficiente. Saque não realizado.**
+ 
 
-## Dependency Management
+## Exemplos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada | Saída |
+| ------- | ----- |
+| 50 | Deposito feito. |
+| 50 | Saldo atual: 100.0 |
+| 100 | Saque feito. |
+| | Saldo atual: 0.0 |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 90 | Deposito feito. |
+| 90 | Saldo atual: 180.0 |
+| 12 | Saque feito. |
+| | Saldo atual: 168.0 |

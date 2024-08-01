@@ -21,3 +21,21 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 | Entrada | Saída |
 | ------- | ----- |
+| 2500 | Saldo: 2100.0 |
+| 2 | Transacoes: |
+| d | 1. Deposito de 100.0 |
+| 100 | 2. Saque de 500.0 |
+| s | |
+| 500 | |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 900 | Saldo: 800.0 |
+| 1 | Transacoes: |
+| s | 1. Saque de 100.0 |
+| 100 | |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 0 | Saldo: 0.0 |
+| 0 | Transacoes: |
