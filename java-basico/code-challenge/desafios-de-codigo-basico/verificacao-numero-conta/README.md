@@ -1,18 +1,33 @@
-## Getting Started
+# 2 / 5 - Verificação de Número de Conta Bancária
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Você está desenvolvendo um programa simples em Java para verificar se um número de conta bancária é válido. O número da conta deve ter exatamente 8 dígitos.
 
-The workspace contains two folders by default, where:
+## Entrada
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* O programa solicitará ao usuário que digite o número da conta bancária.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Saída
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* O programa utilizará um bloco try-catch para verificar se o número da conta possui exatamente 8 dígitos.
+* Se o número da conta tiver 8 dígitos, o programa informará que é um número válido.
+* Se o número da conta não tiver 8 dígitos, o programa lançará uma exceção (por exemplo, `IllegalArgumentException`) e informará que o número da conta é inválido.
 
-## Dependency Management
+## Exemplos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada | Saída |
+| ------- | ----- |
+| 01020304 | Numero de conta valido. |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 1234568 | Erro: Numero de conta invalido. |
+| | Digite exatamente 8 digitos. |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 3231 | Erro: Numero de conta invalido. |
+| | Digite exatamente 8 digitos. |

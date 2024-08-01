@@ -1,18 +1,38 @@
-## Getting Started
+# 5 / 5 - Controle de Saques
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Você está desenvolvendo um programa simples em Java para auxiliar um cliente a realizar saques de uma conta bancária. O cliente pode fazer saques até atingir um limite diário predefinido.
 
-The workspace contains two folders by default, where:
+## Entrada
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* O programa solicitará ao usuário que informe o limite diário de saque.
+* Em seguida, o programa solicitará ao usuário que informe o valor do primeiro saque.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Saída
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Utilizando um laço for, o programa iterará sobre os saques.
+* Para cada saque, o programa verificará se o valor ultrapassa o limite diário.
+    * Se ultrapassar, o programa informará que o limite foi atingido e encerrará o loop.
+    * Se não ultrapassar, o programa informará que o saque foi realizado com sucesso.
 
-## Dependency Management
+## Exemplos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada | Saída |
+| ------- | ----- |
+| 1500 | Saque realizado. Limite restante: |
+| 430 | 1070.0 |
+| 0 | Transacoes encerradas.|
+
+| Entrada | Saída |
+| ------- | ----- |
+| 500 | Limite diario de saque atingido. |
+| 1500 | Transacoes encerradas. |
+
+| Entrada | Saída |
+| ------- | ----- |
+| 80 | Saque realizado. Limite restante: |
+| 40 | 40.0 |
+| 0 | Transacoes encerradas. |
