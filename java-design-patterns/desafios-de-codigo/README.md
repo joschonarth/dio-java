@@ -11,9 +11,9 @@ Repositório para armazenar os Desafios de Códigos em Java do Bootcamp da [Digi
 
 | Desafios | Repositórios |
 | ------- | ----------- |
-| Desafio 1 | [Operações Bancárias Simples com Switch](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/operacoes-bancarias-simples) |
-| Desafio 2 | [Verificação de Número de Conta Bancária](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/verificacao-numero-conta) |
-| Desafio 3 | [Verificador de Idade para Conta Bancária](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenge/desafios-de-codigo-basico/verificador-idade-conta) |
+| Desafio 1 | [Avaliação de Projetos de Software](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns/desafios-de-codigo/avaliacao-projetos-software) |
+| Desafio 2 | [Verificação de Horários de Reuniões](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns/desafios-de-codigo/verificacao-horarios-reunioes) |
+| Desafio 3 | [Calculadora de Salários](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns/desafios-de-codigo/calculadora-salarios) |
 
 ### 🔍 Referências
 - [Digital Innovation One](https://www.dio.me/).
