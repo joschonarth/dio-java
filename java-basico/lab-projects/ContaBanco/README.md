@@ -1,5 +1,4 @@
-# DIO - Trilha Java Básico
-www.dio.me
+# Simulando Uma Conta Bancária Através Do Terminal/Console
 
 ## Sintaxe - Desafio
 
