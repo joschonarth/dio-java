@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Main {
 
     // Função para calcular o consumo total de dados móveis
