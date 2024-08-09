@@ -14,6 +14,7 @@ Repositório para armazenar conteúdos sobre JAVA de cursos e Bootcamps da [Digi
 | Java Collections | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-collections) |
 | Design Patterns  | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns) |
 | JUnit | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-junit) |
+| Mockito | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-mockito) |
 | STREAM API  | [Repositório](https://github.com/joschonarth/dio-java/tree/main/stream-api) |
 | Spring Boot | [Repositório](https://github.com/joschonarth/dio-java/tree/main/spring-boot) |
 
