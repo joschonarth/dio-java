@@ -1,8 +1,8 @@
-# Gradle: Gerenciamento de Dependências e Build em Java
-
-![Gradle Logo](https://gradle.org/assets/images/gradle_logo.png)
+# Gradle: Gerenciamento de Dependências e Build em Java 
 
 Este repositório contém informações e exemplos para ajudá-lo a entender e utilizar o Gradle para gerenciar dependências e realizar builds de projetos Java de maneira eficiente.
+
+[<img src="https://skillicons.dev/icons?i=gradle&theme=dark" width="50">](https://gradle.org/)
 
 ## O que é o Gradle?
 
@@ -30,4 +30,4 @@ dependencies {
 ```
 
 Documentação
-Para obter mais informações sobre como configurar e utilizar o Gradle, consulte a documentação oficial.
+Para obter mais informações sobre como configurar e utilizar o Gradle, consulte a [documentação oficial](https://docs.gradle.org/current/userguide/userguide.html).
