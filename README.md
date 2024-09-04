@@ -4,6 +4,14 @@ Repositório para armazenar conteúdos sobre JAVA de cursos e Bootcamps da [Digi
 
 ## 📄 Documentação
 - [Documentação JAVA](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+- [Design Patterns](https://refactoring.guru/design-patterns)
+
+- [Maven](https://maven.apache.org/)
+- [Gradle](https://gradle.org/)
+- [JUnit](https://junit.org/junit5/)
+- [Mockito](https://site.mockito.org/)
+- [Spring Initializr](https://start.spring.io/)
+- [Apache Kafka](https://kafka.apache.org/)
 
 ## 💻 Conteúdos
 
