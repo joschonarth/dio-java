@@ -15,9 +15,9 @@ Repositório para armazenar conteúdos sobre JAVA de cursos e Bootcamps da [Digi
 | Java Collections | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-collections) |
 | Design Patterns | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns) |
 | Testes Unitários com JUnit | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-junit) |
-| Mockito | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-mockito) |
-| Maven | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-maven) |
-| Gradle | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-gradle) |
+| Testes com Mockito | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-mockito) |
+| Gerenciamento de Dependências com Maven | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-maven) |
+| Gerenciamento de Dependências com Gradle | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-gradle) |
 | Clean Code em Java | [Repositório](https://github.com/joschonarth/dio-java/tree/main/java-clean-code) |
 | STREAM API  | [Repositório](https://github.com/joschonarth/dio-java/tree/main/stream-api) |
 | Spring Boot | [Repositório](https://github.com/joschonarth/dio-java/tree/main/spring-boot) |
