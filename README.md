@@ -2,17 +2,6 @@
 
 Repositório para armazenar conteúdos sobre JAVA de cursos e Bootcamps da [Digital Innovation One](https://www.dio.me/).
 
-## 📄 Documentação
-- [Documentação JAVA](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
-- [Design Patterns](https://refactoring.guru/design-patterns)
-
-- [Maven](https://maven.apache.org/)
-- [Gradle](https://gradle.org/)
-- [JUnit](https://junit.org/junit5/)
-- [Mockito](https://site.mockito.org/)
-- [Spring Initializr](https://start.spring.io/)
-- [Apache Kafka](https://kafka.apache.org/)
-
 ## 💻 Conteúdos
 
 | Conteúdos | Repositórios |
@@ -31,6 +20,17 @@ Repositório para armazenar conteúdos sobre JAVA de cursos e Bootcamps da [Digi
 | Spring Boot | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot) |
 | EDA com Java, Spring Boot e Kafka | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-spring-kafka) |
 
+
+## 📄 Documentação
+- [Documentação JAVA](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)
+- [Design Patterns](https://refactoring.guru/design-patterns)
+
+- [Maven](https://maven.apache.org/)
+- [Gradle](https://gradle.org/)
+- [JUnit](https://junit.org/junit5/)
+- [Mockito](https://site.mockito.org/)
+- [Spring Initializr](https://start.spring.io/)
+- [Apache Kafka](https://kafka.apache.org/)
 
 ### 🔍 Referências
 - [Digital Innovation One](https://web.dio.me/).
