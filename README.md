@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de estudos sobre Java! Aqui você vai encontrar uma coleção de materiais, códigos e projeto que compilei durante minha jornada de aprendizado. Aqui você verá projeto desenvolvidos com Spring Boot, Testes Unitários, Gerenciamento de Dependências e RESTful APIs. Sinta-se à vontade para explorar e contribuir!
 
-## 💻 Conteúdos
+## 📂 Conteúdos
 
 | Conteúdos | Descrição | Material |
 |----------|-----------| -------- |
