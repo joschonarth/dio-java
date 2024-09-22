@@ -4,21 +4,22 @@ Bem-vindo ao meu repositório de estudos sobre Java! Aqui você vai encontrar um
 
 ## 💻 Conteúdos
 
-| Conteúdos | Repositórios |
-| ----- | ------- |
-| Java Básico | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-basico) |
-| Desafios de Código | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenges) |
-| Programação Orientada a Objetos | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/banco-digital-poo) |
-| Java Collections | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-collections) |
-| Design Patterns | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns) |
-| Testes Unitários com JUnit | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-junit) |
-| Testes com Mockito | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-mockito) |
-| Gerenciamento de Dependências com Maven | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-maven) |
-| Gerenciamento de Dependências com Gradle | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-gradle) |
-| Clean Code em Java | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-clean-code) |
-| STREAM API  | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/stream-api) |
-| Spring Boot | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot) |
-| EDA com Java, Spring Boot e Kafka | [![Repositório](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-spring-kafka) |
+| Conteúdos | Descrição | Material |
+|----------|-----------| -------- |
+| ☕ Java Básico | Introdução aos fundamentos da linguagem Java. | [![Java Básico](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-basico) |
+| ☕ Desafios de Código | Exercícios práticos para desenvolver habilidades de programação. | [![Desafios de Código](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-basico/code-challenges) |
+| ☕ Programação Orientada a Objetos | Conceitos de POO aplicados em um projeto de banco digital. | [![Programação Orientada a Objetos](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/banco-digital-poo) |
+| ☕ Java Collections | Uso das coleções em Java para manipulação de dados. | [![Java Collections](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-collections) |
+| ☕ Design Patterns | Implementação de padrões de projeto em Java. | [![Design Patterns](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-design-patterns) |
+| ☕ Testes Unitários com JUnit | Práticas de testes unitários utilizando JUnit. | [![Testes Unitários com JUnit](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-junit) |
+| ☕ Testes com Mockito | Técnicas de mock para testes com Mockito. | [![Testes com Mockito](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-mockito) |
+| ☕ Gerenciamento de Dependências com Maven | Configuração e uso do Maven em projetos Java. | [![Gerenciamento de Dependências com Maven](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-maven) |
+| ☕ Gerenciamento de Dependências com Gradle | Utilização do Gradle para gerenciamento de dependências. | [![Gerenciamento de Dependências com Gradle](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-gradle) |
+| ☕ Clean Code em Java | Práticas de programação limpa e legível em Java. | [![Clean Code em Java](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-clean-code) |
+| ☕ STREAM API | Uso da Stream API para manipulação de dados em Java. | [![STREAM API](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/stream-api) |
+| ☕ Spring Boot | Aplicação inicial com Spring Boot e seus principais componentes. | [![Spring Boot](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/spring-boot) |
+| ☕ EDA com Java, Spring Boot e Kafka | Integração de Java, Spring Boot e Kafka para EDA. | [![EDA com Java, Spring Boot e Kafka](https://img.shields.io/badge/Ver%20Material-B07219?style=for-the-badge)](https://github.com/joschonarth/dio-java/tree/main/java-spring-kafka) |
+
 
 
 ## 📄 Documentação
