@@ -1,6 +1,6 @@
-# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> DIO | JAVA
+# [<img src="https://skillicons.dev/icons?i=java&theme=light" width="40" align="center">](https://www.java.com/) Materiais de Estudo sobre Java
 
-Repositório para armazenar conteúdos sobre JAVA de cursos e Bootcamps da [Digital Innovation One](https://www.dio.me/).
+Bem-vindo ao meu repositório de estudos sobre Java! Aqui você vai encontrar uma coleção de materiais, códigos e projeto que compilei durante minha jornada de aprendizado. Aqui você verá projeto desenvolvidos com Spring Boot, Testes Unitários, Gerenciamento de Dependências e RESTful APIs. Sinta-se à vontade para explorar e contribuir!
 
 ## 💻 Conteúdos
 
